@@ -53,3 +53,6 @@ class ArticlesController < ApplicationController
     end
 
 end
+
+#controller modified
+
